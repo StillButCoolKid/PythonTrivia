@@ -1,0 +1,10 @@
+How many colours are there in a rainbow?
+[1, 'Six', 'Seven', 'Eight']
+What is the currency of Japan?
+[2, 'Rupees', 'Dollars', 'Yen']
+What is the tallest land animal in the world?
+[0, 'Giraffe', 'Elephant', 'Dog']
+How many continents are there on Earth?
+[0, '7', '6','5']
+What is the capital city of France?
+[1,'Washington DC','Paris', 'New Delhi']
